@@ -1,0 +1,6 @@
+{
+	"rtcommTopicPath": "/rtcomm/",
+	"createEndpoint": true,
+	"presenceTopic": "sampleRoom",
+	"userid": ""
+}
